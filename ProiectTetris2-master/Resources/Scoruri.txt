@@ -1,0 +1,1 @@
+{"Players":[{"id":"Gigel","scor":10000},{"id":"Stefan cel Mare","scor":1000},{"id":"Alexandru cel Bun","scor":900},{"id":"Anonio","scor":800},{"id":"Mircea cel Batran","scor":800},{"id":"Iancu din Hunedoara","scor":700},{"id":"Petru Musat","scor":600},{"id":"Antonio 2","scor":500},{"id":"Vlad Tepes","scor":500},{"id":"Radu cel Frumos","scor":400}]}

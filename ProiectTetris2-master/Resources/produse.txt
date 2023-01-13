@@ -1,0 +1,13 @@
+﻿{"produse":[{"prodID":0,"numeProdus":"Basic","pozaProdus":"C:/Users/liver/Source/Repos/ProiectTetris2/Resources/profil0.jpg","pretBani":0,"pretXP":0},
+{"prodID":1,"numeProdus":"Glumet","pozaProdus":"C:/Users/liver/Source/Repos/ProiectTetris2/Resources/profil1.jpg","pretBani":300,"pretXP":600},
+{"prodID":2,"numeProdus":"Elegant","pozaProdus":"C:/Users/liver/Source/Repos/ProiectTetris2/Resources/profil2.jpg","pretBani":600,"pretXP":800},
+{"prodID":3,"numeProdus":"Smecheras","pozaProdus":"C:/Users/liver/Source/Repos/ProiectTetris2/Resources/profil3.jpg","pretBani":600,"pretXP":800},
+{"prodID":4,"numeProdus":"Inocent","pozaProdus":"C:/Users/liver/Source/Repos/ProiectTetris2/Resources/profil4.jpg","pretBani":1000,"pretXP":1200},
+{"prodID":5,"numeProdus":"Regal","pozaProdus":"C:/Users/liver/Source/Repos/ProiectTetris2/Resources/profil5.jpg","pretBani":1500,"pretXP":2000},
+{"prodID":6,"numeProdus":"Scoate Reclame","pozaProdus":"C:/Users/liver/Source/Repos/ProiectTetris2/Resources/Fara reclame.jpg","pretBani":100,"pretXP":300},
+{"prodID":7,"numeProdus":"Bomba Bombelor","pozaProdus":"C:/Users/liver/Source/Repos/ProiectTetris2/Resources/BombaB.jpg","pretBani":1000,"pretXP":2000},
+{"prodID":8,"numeProdus":"Bagheta la comanda","pozaProdus":"C:/Users/liver/Source/Repos/ProiectTetris2/Resources/Bagheta.jpg","pretBani":800,"pretXP":1600},
+{"prodID":9,"numeProdus":"Skip","pozaProdus":"C:/Users/liver/Source/Repos/ProiectTetris2/Resources/Skip.gif","pretBani":800,"pretXP":1600},
+{"prodID":10,"numeProdus":"Elimina un rand","pozaProdus":"C:/Users/liver/Source/Repos/ProiectTetris2/Resources/Remove line.gif","pretBani":600,"pretXP":2000},
+{"prodID":11,"numeProdus":"Laser","pozaProdus":"C:/Users/liver/Source/Repos/ProiectTetris2/Resources/Laser.gif","pretBani":1000,"pretXP":2000}
+]}
